@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+code/src/Client/clientCode/node_modules
+code/src/Backend/backendCode/src/__pycache__
+code/src/Backend/backendCode/src/__pycache__
+
+
