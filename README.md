@@ -17,7 +17,7 @@
 This project is an innovative financial recommendation platform designed to provide personalized product suggestions and insights for bank customers. By leveraging advanced machine learning techniques, natural language processing, and comprehensive data analysis, the system aims to enhance customer experience and financial product matching.
 
 ## 🎥 Demo
-![System Architecture Diagram](artifacts/demo/Hackathon%20Recording.mov)
+![Demo Video](artifacts/demo/Hackathon%20Recording.mov)
 
 ## 💡 Inspiration
 In today’s digital era, customer expectations have evolved significantly. People no longer settle for generic recommendations; they seek experiences tailored to their unique preferences, behaviors, and needs. Businesses that fail to deliver hyper-personalized experiences risk losing customer engagement and loyalty.
